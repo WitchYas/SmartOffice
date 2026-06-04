@@ -34,5 +34,5 @@ SmartOffice is a modern, modular Flutter application designed for smart-home man
 
 The physical setup includes an ESP32 microcontroller wired to sensors for real-time data acquisition, communicating with the Firebase backend over WiFi.
 
-![Hardware Maquette](assets/images/hardware_maquette.jepg)
+![Hardware Maquette](assets/images/hardware_maquette.jpeg)
 
