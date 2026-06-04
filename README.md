@@ -30,5 +30,9 @@ SmartOffice is a modern, modular Flutter application designed for smart-home man
 3. (Optional) Run `flutter pub get` inside the `appbot/` folder.
 4. Add your own `firebase_options.dart` or keep the template for UI testing.
 5. Launch with `flutter run`.
+## 🔌 Hardware Prototype
 
+The physical setup includes an ESP32 microcontroller wired to sensors for real-time data acquisition, communicating with the Firebase backend over WiFi.
+
+![Hardware Maquette](assets/images/hardware_maquette.jepg)
 
